@@ -37,12 +37,12 @@
     margin-bottom: 25px;
 }
 input{
-    flex: 1;
-    border: none;
-    outline: none;
-    background: transparent;
-    padding: 10px;
-    font-weight: 14px;
+    flex:1;
+    border:none;
+    outline:none;
+    background:transparent;
+    padding:10px;
+    font-weight:14px;
 }
 button{
     border: none;
